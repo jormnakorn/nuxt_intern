@@ -95,6 +95,11 @@ export default {
           title: 'Register',
           to: '/auth/register',
         },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'TEST',
+          to: '/auth/register',
+        },
       ],
       miniVariant: false,
       right: true,
